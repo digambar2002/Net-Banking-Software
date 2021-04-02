@@ -1,0 +1,11 @@
+Databse file
+
+This is only a structure of database you have to fill valid values in database
+
+Steps to create local database
+
+open mysql
+create new database of the name " sky bank "
+import the database file in newly created database
+
+©Sky Tech Enterprise
